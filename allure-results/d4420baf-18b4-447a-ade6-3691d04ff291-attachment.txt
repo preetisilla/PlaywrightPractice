@@ -1,0 +1,4 @@
+Main frame — practice playground
+[object Promise]:[object Promise]
+[object Promise]:[object Promise]
+[object Promise]:[object Promise]
